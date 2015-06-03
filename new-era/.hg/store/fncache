@@ -1,0 +1,14 @@
+data/setup.py.i
+data/new_era/crc.py.i
+data/README.txt.i
+data/new_era/server.py.i
+data/new_era/__init__.py.i
+data/docs/Makefile.i
+data/docs/conf.py.i
+data/LICENSE.txt.i
+data/.hgignore.i
+data/docs/api.rst.i
+data/docs/index.rst.i
+data/MANIFEST.in.i
+data/new_era/test.py.i
+data/CHANGES.txt.i

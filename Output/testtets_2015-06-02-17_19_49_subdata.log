@@ -1,0 +1,123 @@
+3891.0437 	DATA 	Keypress: 5
+3891.1459 	Level Condition: 3 	25
+3891.1509 	Level image=tampico.jpg 	25
+3893.0913 	Level injecting via pump at address 0 	25
+3903.3276 	DATA 	Mouse: unknownButton button up, pos=(97,607)
+3903.3473 	Level Condition: 1 	25
+3903.3533 	Level image=bottled_water.jpg 	25
+3903.4031 	Level injecting via pump at address 1 	25
+3911.2495 	Level Condition: 0 	25
+3911.2552 	Level image=bottled_water.jpg 	25
+3913.0809 	Level injecting via pump at address 0 	25
+3921.1173 	Level Condition: 2 	25
+3921.1227 	Level image=tampico.jpg 	25
+3923.0812 	Level injecting via pump at address 1 	25
+3931.1446 	Level Condition: 3 	25
+3931.1495 	Level image=tampico.jpg 	25
+3933.0809 	Level injecting via pump at address 0 	25
+3941.0942 	Level Condition: 1 	25
+3941.0999 	Level image=bottled_water.jpg 	25
+3943.0812 	Level injecting via pump at address 1 	25
+3951.0889 	Level Condition: 1 	25
+3951.0939 	Level image=bottled_water.jpg 	25
+3953.0809 	Level injecting via pump at address 1 	25
+3961.0959 	Level Condition: 3 	25
+3961.0997 	Level image=tampico.jpg 	25
+3963.0811 	Level injecting via pump at address 0 	25
+3971.0897 	Level Condition: 2 	25
+3971.0937 	Level image=tampico.jpg 	25
+3973.0809 	Level injecting via pump at address 1 	25
+3981.0886 	Level Condition: 2 	25
+3981.0923 	Level image=tampico.jpg 	25
+3983.0812 	Level injecting via pump at address 1 	25
+3991.0912 	Level Condition: 0 	25
+3991.0979 	Level image=bottled_water.jpg 	25
+3993.0811 	Level injecting via pump at address 0 	25
+4001.0897 	Level Condition: 2 	25
+4001.0935 	Level image=tampico.jpg 	25
+4003.0810 	Level injecting via pump at address 1 	25
+4011.1035 	Level Condition: 0 	25
+4011.1106 	Level image=bottled_water.jpg 	25
+4013.0810 	Level injecting via pump at address 0 	25
+4021.0893 	Level Condition: 0 	25
+4021.0956 	Level image=bottled_water.jpg 	25
+4023.0817 	Level injecting via pump at address 0 	25
+4031.0915 	Level Condition: 2 	25
+4031.0960 	Level image=tampico.jpg 	25
+4033.0809 	Level injecting via pump at address 1 	25
+4041.1776 	Level Condition: 0 	25
+4041.1847 	Level image=bottled_water.jpg 	25
+4043.0810 	Level injecting via pump at address 0 	25
+4056.9669 	Level Condition: 1 	25
+4056.9717 	Level image=bottled_water.jpg 	25
+4056.9770 	Level injecting via pump at address 1 	25
+4061.1413 	Level Condition: 2 	25
+4061.1465 	Level image=tampico.jpg 	25
+4063.0818 	Level injecting via pump at address 1 	25
+4071.1584 	Level Condition: 2 	25
+4071.1622 	Level image=tampico.jpg 	25
+4073.0810 	Level injecting via pump at address 1 	25
+4081.1067 	Level Condition: 2 	25
+4081.1105 	Level image=tampico.jpg 	25
+4083.0810 	Level injecting via pump at address 1 	25
+4091.0887 	Level Condition: 0 	25
+4091.0942 	Level image=bottled_water.jpg 	25
+4093.0807 	Level injecting via pump at address 0 	25
+4101.0894 	Level Condition: 0 	25
+4101.0947 	Level image=bottled_water.jpg 	25
+4103.0808 	Level injecting via pump at address 0 	25
+4111.0909 	Level Condition: 0 	25
+4111.0981 	Level image=bottled_water.jpg 	25
+4113.0806 	Level injecting via pump at address 0 	25
+4121.0927 	Level Condition: 3 	25
+4121.0965 	Level image=tampico.jpg 	25
+4123.0806 	Level injecting via pump at address 0 	25
+4157.1835 	DATA 	Keypress: 5
+4157.2227 	Level Condition: 0 	25
+4157.2322 	Level image=bottled_water.jpg 	25
+4167.2713 	Level Condition: 1 	25
+4167.2787 	Level image=bottled_water.jpg 	25
+4177.2167 	Level Condition: 0 	25
+4177.2214 	Level image=bottled_water.jpg 	25
+4187.2372 	Level Condition: 1 	25
+4187.2438 	Level image=bottled_water.jpg 	25
+4197.2195 	Level Condition: 3 	25
+4197.2233 	Level image=tampico.jpg 	25
+4207.2225 	Level Condition: 2 	25
+4207.2260 	Level image=tampico.jpg 	25
+4217.2254 	Level Condition: 0 	25
+4217.2328 	Level image=bottled_water.jpg 	25
+4227.2245 	Level Condition: 2 	25
+4227.2284 	Level image=tampico.jpg 	25
+4237.2250 	Level Condition: 0 	25
+4237.2313 	Level image=bottled_water.jpg 	25
+4247.2287 	Level Condition: 1 	25
+4247.2351 	Level image=bottled_water.jpg 	25
+4257.2274 	Level Condition: 1 	25
+4257.2331 	Level image=bottled_water.jpg 	25
+4267.2293 	Level Condition: 2 	25
+4267.2334 	Level image=tampico.jpg 	25
+4277.2308 	Level Condition: 2 	25
+4277.2343 	Level image=tampico.jpg 	25
+4287.2328 	Level Condition: 2 	25
+4287.2378 	Level image=tampico.jpg 	25
+4297.2316 	Level Condition: 0 	25
+4297.2379 	Level image=bottled_water.jpg 	25
+4307.2335 	Level Condition: 0 	25
+4307.2423 	Level image=bottled_water.jpg 	25
+4317.2142 	Level Condition: 3 	25
+4317.2173 	Level image=tampico.jpg 	25
+4327.2379 	Level Condition: 3 	25
+4327.2433 	Level image=tampico.jpg 	25
+4337.2171 	Level Condition: 0 	25
+4337.2230 	Level image=bottled_water.jpg 	25
+4347.2154 	Level Condition: 0 	25
+4347.2199 	Level image=bottled_water.jpg 	25
+4357.2137 	Level Condition: 2 	25
+4357.2172 	Level image=tampico.jpg 	25
+4367.2159 	Level Condition: 2 	25
+4367.2188 	Level image=tampico.jpg 	25
+4377.2141 	Level Condition: 3 	25
+4377.2180 	Level image=tampico.jpg 	25
+4387.2279 	Level Condition: 2 	25
+4387.2316 	Level image=tampico.jpg 	25

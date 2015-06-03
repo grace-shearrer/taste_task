@@ -1,0 +1,21 @@
+syntax: glob
+
+.installed.cfg
+bin
+develop-eggs
+parts
+
+*.egg-info
+
+tmp
+build
+dist
+
+build
+dist
+MANIFEST
+docs/make.bat
+docs/_build
+*.pyc
+*.pyo
+*.swp

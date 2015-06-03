@@ -1,0 +1,99 @@
+493.1082 	DATA 	Mouse: unknownButton button up, pos=(168,632)
+495.0789 	DATA 	Keypress: 5
+495.1292 	Level Condition: 2 	25
+495.1415 	Level image=tampico.jpg 	25
+505.1752 	Level Condition: 2 	25
+505.1820 	Level image=tampico.jpg 	25
+515.1448 	Level Condition: 3 	25
+515.1490 	Level image=tampico.jpg 	25
+525.1270 	Level Condition: 3 	25
+525.1298 	Level image=tampico.jpg 	25
+535.1258 	Level Condition: 2 	25
+535.1290 	Level image=tampico.jpg 	25
+545.1287 	Level Condition: 0 	25
+545.1395 	Level image=bottled_water.jpg 	25
+555.1296 	Level Condition: 1 	25
+555.1351 	Level image=bottled_water.jpg 	25
+565.1295 	Level Condition: 0 	25
+565.1354 	Level image=bottled_water.jpg 	25
+575.1321 	Level Condition: 0 	25
+575.1385 	Level image=bottled_water.jpg 	25
+585.1317 	Level Condition: 0 	25
+585.1374 	Level image=bottled_water.jpg 	25
+595.1327 	Level Condition: 1 	25
+595.1383 	Level image=bottled_water.jpg 	25
+605.1360 	Level Condition: 2 	25
+605.1396 	Level image=tampico.jpg 	25
+615.1344 	Level Condition: 1 	25
+615.1405 	Level image=bottled_water.jpg 	25
+625.1182 	Level Condition: 0 	25
+625.1228 	Level image=bottled_water.jpg 	25
+635.1189 	Level Condition: 2 	25
+635.1226 	Level image=tampico.jpg 	25
+645.1209 	Level Condition: 0 	25
+645.1272 	Level image=bottled_water.jpg 	25
+655.1230 	Level Condition: 3 	25
+655.1266 	Level image=tampico.jpg 	25
+665.1222 	Level Condition: 2 	25
+665.1257 	Level image=tampico.jpg 	25
+675.1252 	Level Condition: 0 	25
+675.1321 	Level image=bottled_water.jpg 	25
+685.1242 	Level Condition: 2 	25
+685.1280 	Level image=tampico.jpg 	25
+695.1261 	Level Condition: 1 	25
+695.1330 	Level image=bottled_water.jpg 	25
+705.1285 	Level Condition: 3 	25
+705.1321 	Level image=tampico.jpg 	25
+715.1274 	Level Condition: 2 	25
+715.1308 	Level image=tampico.jpg 	25
+725.1304 	Level Condition: 0 	25
+725.1375 	Level image=bottled_water.jpg 	25
+1969.4942 	DATA 	Keypress: 5
+1969.5540 	Level Condition: 3 	25
+1969.5599 	Level image=tampico.jpg 	25
+1979.5714 	Level Condition: 1 	25
+1979.5791 	Level image=bottled_water.jpg 	25
+1989.6217 	Level Condition: 0 	25
+1989.6297 	Level image=bottled_water.jpg 	25
+1999.5897 	Level Condition: 0 	25
+1999.5960 	Level image=bottled_water.jpg 	25
+2009.5372 	Level Condition: 0 	25
+2009.5426 	Level image=bottled_water.jpg 	25
+2019.5389 	Level Condition: 1 	25
+2019.5441 	Level image=bottled_water.jpg 	25
+2029.5385 	Level Condition: 3 	25
+2029.5422 	Level image=tampico.jpg 	25
+2039.5399 	Level Condition: 2 	25
+2039.5432 	Level image=tampico.jpg 	25
+2049.5422 	Level Condition: 1 	25
+2049.5478 	Level image=bottled_water.jpg 	25
+2059.5404 	Level Condition: 3 	25
+2059.5441 	Level image=tampico.jpg 	25
+2069.5397 	Level Condition: 2 	25
+2069.5433 	Level image=tampico.jpg 	25
+2079.5423 	Level Condition: 2 	25
+2079.5460 	Level image=tampico.jpg 	25
+2089.5378 	Level Condition: 3 	25
+2089.5422 	Level image=tampico.jpg 	25
+2099.5371 	Level Condition: 0 	25
+2099.5437 	Level image=bottled_water.jpg 	25
+2109.5376 	Level Condition: 0 	25
+2109.5441 	Level image=bottled_water.jpg 	25
+2119.5389 	Level Condition: 1 	25
+2119.5454 	Level image=bottled_water.jpg 	25
+2129.5408 	Level Condition: 0 	25
+2129.5472 	Level image=bottled_water.jpg 	25
+2139.5378 	Level Condition: 2 	25
+2139.5415 	Level image=tampico.jpg 	25
+2149.5389 	Level Condition: 2 	25
+2149.5423 	Level image=tampico.jpg 	25
+2159.5391 	Level Condition: 2 	25
+2159.5425 	Level image=tampico.jpg 	25
+2169.5371 	Level Condition: 2 	25
+2169.5405 	Level image=tampico.jpg 	25
+2179.5451 	Level Condition: 0 	25
+2179.5522 	Level image=bottled_water.jpg 	25
+2189.5389 	Level Condition: 2 	25
+2189.5425 	Level image=tampico.jpg 	25
+2199.5383 	Level Condition: 0 	25
+2199.5441 	Level image=bottled_water.jpg 	25

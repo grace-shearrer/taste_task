@@ -1,0 +1,50 @@
+1705.5549 	WARNING 	Monitor specification not found. Creating a temporary one...
+3843.2304 	DATA 	Keypress: 5
+3843.2695 	Level Condition: 3 	25
+3843.2786 	Level image=tampico.jpg 	25
+3853.2612 	Level Condition: 0 	25
+3853.2691 	Level image=bottled_water.jpg 	25
+3863.2624 	Level Condition: 1 	25
+3863.2692 	Level image=bottled_water.jpg 	25
+3873.2644 	Level Condition: 3 	25
+3873.2685 	Level image=tampico.jpg 	25
+3883.2644 	Level Condition: 2 	25
+3883.2681 	Level image=tampico.jpg 	25
+3893.2676 	Level Condition: 2 	25
+3893.2714 	Level image=tampico.jpg 	25
+3903.2668 	Level Condition: 0 	25
+3903.2731 	Level image=bottled_water.jpg 	25
+3913.2686 	Level Condition: 0 	25
+3913.2746 	Level image=bottled_water.jpg 	25
+3923.2723 	Level Condition: 2 	25
+3923.2761 	Level image=tampico.jpg 	25
+3933.2711 	Level Condition: 1 	25
+3933.2775 	Level image=bottled_water.jpg 	25
+3943.2730 	Level Condition: 0 	25
+3943.2791 	Level image=bottled_water.jpg 	25
+3953.2736 	Level Condition: 2 	25
+3953.2776 	Level image=tampico.jpg 	25
+3963.2560 	Level Condition: 2 	25
+3963.2589 	Level image=tampico.jpg 	25
+3973.2579 	Level Condition: 2 	25
+3973.2606 	Level image=tampico.jpg 	25
+3983.2584 	Level Condition: 2 	25
+3983.2618 	Level image=tampico.jpg 	25
+3993.2618 	Level Condition: 3 	25
+3993.2651 	Level image=tampico.jpg 	25
+4003.2625 	Level Condition: 2 	25
+4003.2662 	Level image=tampico.jpg 	25
+4013.2627 	Level Condition: 3 	25
+4013.2665 	Level image=tampico.jpg 	25
+4023.2656 	Level Condition: 0 	25
+4023.2717 	Level image=bottled_water.jpg 	25
+4033.2644 	Level Condition: 0 	25
+4033.2703 	Level image=bottled_water.jpg 	25
+4043.2677 	Level Condition: 0 	25
+4043.2741 	Level image=bottled_water.jpg 	25
+4053.2684 	Level Condition: 1 	25
+4053.2751 	Level image=bottled_water.jpg 	25
+4063.2687 	Level Condition: 0 	25
+4063.2748 	Level image=bottled_water.jpg 	25
+4073.2724 	Level Condition: 1 	25
+4073.2782 	Level image=bottled_water.jpg 	25
