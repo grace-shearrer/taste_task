@@ -4,7 +4,7 @@ sys.path.insert(0, '/Users/kylesburger/Desktop/taste_task/pyserial-2.6')
 import serial
 import time
 
-debug = False 
+debug = True
 
 class SyringePump(serial.Serial):
 
@@ -162,6 +162,7 @@ if __name__ == '__main__':
         infuse, withdraw = dev.getVolumeAccum()
         print('infuse: {0} (nl), withdraw: {1} (nl)'.format(infuse,withdraw))
         dev.stop()
+        print('it only reads till here')
 
     if 0:
 
@@ -177,3 +178,4 @@ if __name__ == '__main__':
         time.sleep(4.0)
         dev.sendCmd('STP\r')
         dev.sendCmd('DIS\r')
+        print('this is the end of the script')

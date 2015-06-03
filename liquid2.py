@@ -170,7 +170,7 @@ if hasPump:
 
 # setup screen
 
-fullscr=False
+fullscr=True
 
 win = visual.Window([800,600],allowGUI=True, fullscr=fullscr, monitor='testMonitor', units='deg')
 visual_stim=visual.ImageStim(win, image=N.zeros((300,300)), size=(0.75,0.75),units='height')
