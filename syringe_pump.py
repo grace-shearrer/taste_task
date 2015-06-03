@@ -146,7 +146,7 @@ def float2PumpFormat(val):
 # -----------------------------------------------------------------------------
 if __name__ == '__main__':
     if 1:
-        dev = SyringePump('/dev/tty.USA19H142P1.1')
+        dev = SyringePump('/dev/tty.KeySerial1')
         dev.debug = False 
         dev.setDiameter(1.0)
         dev.setRate(5.0,'NS')
@@ -165,7 +165,7 @@ if __name__ == '__main__':
 
     if 0:
 
-        dev = SyringePump('/dev/tty.USA19H142P1.1')
+        dev = SyringePump('/dev/tty.KeySerial1')
         dev.sendCmd('DIA 1.000\r')
         dev.sendCmd('RAT 0.100 UM\r')
         dev.sendCmd('VOL UL\r')

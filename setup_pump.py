@@ -14,7 +14,7 @@ from exptutils import *
 
 import datetime
 
-execfile("syringe_pump.py")
+#execfile("syringe_pump.py")
 
 try:
     print 'using serial device: ', dev

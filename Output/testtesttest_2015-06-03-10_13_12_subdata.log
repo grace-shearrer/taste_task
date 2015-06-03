@@ -1,0 +1,73 @@
+50446.0173 	DATA 	Keypress: 5
+50446.0746 	Level Condition: 2 	25
+50446.0845 	Level image=tampico.jpg 	25
+50448.0529 	Level injecting via pump at address 1 	25
+50456.0662 	Level Condition: 0 	25
+50456.0729 	Level image=bottled_water.jpg 	25
+50458.0502 	Level injecting via pump at address 0 	25
+50466.0700 	Level Condition: 2 	25
+50466.0742 	Level image=tampico.jpg 	25
+50468.0505 	Level injecting via pump at address 1 	25
+50476.0793 	Level Condition: 3 	25
+50476.0834 	Level image=tampico.jpg 	25
+50478.0502 	Level injecting via pump at address 0 	25
+50486.0683 	Level Condition: 2 	25
+50486.0719 	Level image=tampico.jpg 	25
+50488.0502 	Level injecting via pump at address 1 	25
+50496.0716 	Level Condition: 3 	25
+50496.0757 	Level image=tampico.jpg 	25
+50498.0502 	Level injecting via pump at address 0 	25
+50506.0702 	Level Condition: 1 	25
+50506.0768 	Level image=bottled_water.jpg 	25
+50508.0502 	Level injecting via pump at address 1 	25
+50516.0612 	Level Condition: 0 	25
+50516.0678 	Level image=bottled_water.jpg 	25
+50518.0503 	Level injecting via pump at address 0 	25
+50526.0705 	Level Condition: 2 	25
+50526.0746 	Level image=tampico.jpg 	25
+50528.0502 	Level injecting via pump at address 1 	25
+50536.0607 	Level Condition: 1 	25
+50536.0659 	Level image=bottled_water.jpg 	25
+50538.0506 	Level injecting via pump at address 1 	25
+50546.0717 	Level Condition: 0 	25
+50546.0775 	Level image=bottled_water.jpg 	25
+50548.0502 	Level injecting via pump at address 0 	25
+50556.0621 	Level Condition: 0 	25
+50556.0669 	Level image=bottled_water.jpg 	25
+50558.0502 	Level injecting via pump at address 0 	25
+50566.0726 	Level Condition: 0 	25
+50566.0786 	Level image=bottled_water.jpg 	25
+50568.0503 	Level injecting via pump at address 0 	25
+50576.0618 	Level Condition: 1 	25
+50576.0673 	Level image=bottled_water.jpg 	25
+50578.0503 	Level injecting via pump at address 1 	25
+50586.0627 	Level Condition: 0 	25
+50586.0703 	Level image=bottled_water.jpg 	25
+50588.0502 	Level injecting via pump at address 0 	25
+50596.0645 	Level Condition: 2 	25
+50596.0679 	Level image=tampico.jpg 	25
+50598.0502 	Level injecting via pump at address 1 	25
+50606.1017 	Level Condition: 0 	25
+50606.1094 	Level image=bottled_water.jpg 	25
+50608.0502 	Level injecting via pump at address 0 	25
+50616.0656 	Level Condition: 2 	25
+50616.0695 	Level image=tampico.jpg 	25
+50618.0502 	Level injecting via pump at address 1 	25
+50626.0674 	Level Condition: 2 	25
+50626.0714 	Level image=tampico.jpg 	25
+50628.0504 	Level injecting via pump at address 1 	25
+50636.0671 	Level Condition: 1 	25
+50636.0737 	Level image=bottled_water.jpg 	25
+50638.0504 	Level injecting via pump at address 1 	25
+50646.0691 	Level Condition: 3 	25
+50646.0732 	Level image=tampico.jpg 	25
+50648.0502 	Level injecting via pump at address 0 	25
+50656.0663 	Level Condition: 3 	25
+50656.0706 	Level image=tampico.jpg 	25
+50658.0502 	Level injecting via pump at address 0 	25
+50666.0718 	Level Condition: 0 	25
+50666.0787 	Level image=bottled_water.jpg 	25
+50668.0502 	Level injecting via pump at address 0 	25
+50676.0669 	Level Condition: 2 	25
+50676.0708 	Level image=tampico.jpg 	25
+50678.0503 	Level injecting via pump at address 1 	25
