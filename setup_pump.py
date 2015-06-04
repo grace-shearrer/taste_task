@@ -14,7 +14,9 @@ from exptutils import *
 
 import datetime
 
-#execfile("syringe_pump.py")
+execfile("syringe_pump.py")
+
+subdata={}
 
 try:
     print 'using serial device: ', dev
@@ -36,9 +38,9 @@ except:
 
 diameter=26.59
 mls_to_deliver=0.5
-delivery_time=5.0
-cue_time=3.0
-rate = 0.5*(3600.0/5.0)  # mls/hour
+delivery_time=4.0
+cue_time=4.0
+rate = 7.5  # mls/hour
 
 
 # clear infusion measurements
@@ -64,3 +66,7 @@ if hasPump:
     print subdata['pumpdata']
 
 # setup screen
+print ('diameter')
+print('rate')
+print ('mls_to_deliver')
+print 'done tacocat'

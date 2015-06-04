@@ -4,7 +4,7 @@ sys.path.insert(0, '/Users/kylesburger/Desktop/taste_task/pyserial-2.6')
 import serial
 import time
 
-debug = True
+debug = False
 
 class SyringePump(serial.Serial):
 
@@ -27,10 +27,12 @@ class SyringePump(serial.Serial):
         rsp = self.readline()
         self.checkRsp(rsp)
         return rsp
+        print ('tacocat cmd')
 
     def checkRsp(self,rsp):
         if self.debug:
             print('rsp: {0}, {1}'.format([x for x in rsp],[ord(x) for x in rsp]))
+            print ('tacocat reso')
 
     def setDiameter(self,val):
         """
@@ -41,6 +43,7 @@ class SyringePump(serial.Serial):
             raise ValueError, 'syringe diameter out of range'
         valStr = float2PumpFormat(val)
         self.sendCmd('DIA {0}'.format(valStr))
+        print ('tacocat diameter')
 
     def setRate(self,val,units='UM'):
         """
@@ -149,15 +152,15 @@ if __name__ == '__main__':
         dev = SyringePump('/dev/tty.KeySerial1')
         dev.debug = False 
         dev.setDiameter(1.0)
-        dev.setRate(5.0,'NS')
-        dev.setAccumUnits('UL')
+        dev.setRate(3.0,'NS')
+        dev.setAccumUnits('ML')
         dev.clearVolumeAccum()
         dev.setDirection('INF')
         infuse, withdraw = dev.getVolumeAccum()
-        print('infuse: {0} (nl), withdraw: {1} (nl)'.format(infuse,withdraw))
+        print('infuse: {0} (ml), withdraw: {1} (ml)'.format(infuse,withdraw))
         dev.run()
         time.sleep(3)
-        dev.setDirection('WDR')
+        dev.setDirection('INF')
         time.sleep(3)
         infuse, withdraw = dev.getVolumeAccum()
         print('infuse: {0} (nl), withdraw: {1} (nl)'.format(infuse,withdraw))
@@ -179,3 +182,5 @@ if __name__ == '__main__':
         dev.sendCmd('STP\r')
         dev.sendCmd('DIS\r')
         print('this is the end of the script')
+       
+print ('TACOCAT') 

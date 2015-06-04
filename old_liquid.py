@@ -88,7 +88,7 @@ logfile=logging.LogFile(dataFileName,level=logging.INFO)
 
 try:
     print 'initializing serial device:'
-    dev=syringe_pump.SyringePump('/dev/tty.usbserial')
+    dev=syringe_pump.SyringePump('/dev/tty.KeySerial1')
     print dev
     print 'using serial device: ', dev
     if not dev.isOpen():
