@@ -63,7 +63,7 @@ def wait_for_trigger():
             exptutils.shut_down_cleanly(subdata,win)
             return False
     return True
-
+#initialize subdata here
 subdata={}
 #subdata['subcode']='test'
 subdata['subcode']=raw_input('subject id: ')
@@ -72,6 +72,7 @@ subdata['subcode']=raw_input('subject id: ')
 subdata['completed']=0
 subdata['cwd']=os.getcwd()
 subdata['hostname']=socket.gethostname()
+#this is the internet address
 clock=core.Clock()
 datestamp=datetime.datetime.now().strftime("%Y-%m-%d-%H_%M_%S")
 subdata['datestamp']=datestamp
@@ -104,6 +105,7 @@ try:
     if not dev.isOpen():
         raise Exception('noPump')
     hasPump=True
+    
 except:
     hasPump=False
 
@@ -165,12 +167,12 @@ if hasPump:
             fullcmd='%d%s'%(p,cmd)
             subdata['pumpdata'][fullcmd]=dev.sendCmd(fullcmd)
             core.wait(0.1)
-
+#################THIS IS WHERE IT IS FAILING, IT IS NOT PICKING UP THE DATA IN THE SUBDATA DICTIONARY##########################################
     print subdata['pumpdata']
 
 # setup screen
 
-fullscr=True
+fullscr=False
 
 win = visual.Window([800,600],allowGUI=True, fullscr=fullscr, monitor='testMonitor', units='deg')
 visual_stim=visual.ImageStim(win, image=N.zeros((300,300)), size=(0.75,0.75),units='height')
