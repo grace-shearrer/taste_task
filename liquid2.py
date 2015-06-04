@@ -139,17 +139,6 @@ pump=N.zeros(ntrials)
 
 N.random.shuffle(trialcond)
 
-# pump zero is neutral, pump 1 is juice
-
-pump[trialcond==1]=1
-pump[trialcond==2]=1
-
-
-
-onsets=N.arange(0,ntrials*trial_length,step=trial_length)
-
-
-# clear infusion measurements
 if hasPump:
     commands_to_send=['0PHN01','1PHN01','0CLDINF','1CLDINF','0DIRINF','1DIRINF','0RAT%0.1fMH'%rate,'1RAT%0.1fMH'%rate,'0VOL%0.1f'%mls_to_deliver,'1VOL%0.1f'%mls_to_deliver,'0DIA%0.1fMH'%diameter,'1DIA%0.1fMH'%diameter]
     subdata['pumpver']=dev.sendCmd('VER')
@@ -260,7 +249,8 @@ for trial in range(ntrials):
 
 win.close()
 
-#print dev.sendCmd('VER')
+print dev.sendCmd('VER')
+
 f=open('Output/liquid_subdata_%s.pkl'%datestamp,'wb')
 pickle.dump(subdata,f)
 f.close()

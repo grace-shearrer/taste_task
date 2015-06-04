@@ -44,6 +44,7 @@ rate = 0.5*(3600.0/5.0)  # mls/hour
 # clear infusion measurements
 if hasPump:
     commands_to_send=['0PHN01','1PHN01','0CLDINF','1CLDINF','0DIRINF','1DIRINF','0RAT%0.1fMH'%rate,'1RAT%0.1fMH'%rate,'0VOL%0.1f'%mls_to_deliver,'1VOL%0.1f'%mls_to_deliver,'0DIA%0.1fMH'%diameter,'1DIA%0.1fMH'%diameter]
+#this is the only place we see pumpver
     subdata['pumpver']=dev.sendCmd('VER')
 
     dev.setBaudrate(9600)
