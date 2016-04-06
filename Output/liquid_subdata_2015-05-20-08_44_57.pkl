@@ -1,0 +1,936 @@
+(dp0
+S'rt'
+p1
+(dp2
+sS'pumpdata'
+p3
+(dp4
+S'1DIA'
+p5
+S'\x0201S26.59\x03'
+p6
+sS'0RAT'
+p7
+S'\x0200S900.0MH\x03'
+p8
+sS'0DIS'
+p9
+S'\x0200SI0.000W0.000ML\x03'
+p10
+sS'0DIR'
+p11
+S'\x0200SINF\x03'
+p12
+sS'1VOL'
+p13
+S'\x0201S0.500ML\x03'
+p14
+sS'1DIR'
+p15
+S'\x0201SINF\x03'
+p16
+sS'1DIS'
+p17
+S'\x0201SI0.000W0.000ML\x03'
+p18
+sS'1RAT'
+p19
+S'\x0201S900.0MH\x03'
+p20
+sS'0DIA'
+p21
+S'\x0200S26.59\x03'
+p22
+sS'0VOL'
+p23
+S'\x0200S0.500ML\x03'
+p24
+ssS'stim_log'
+p25
+(dp26
+sS'trialdata'
+p27
+(dp28
+I0
+(dp29
+S'onset'
+p30
+cnumpy.core.multiarray
+scalar
+p31
+(cnumpy
+dtype
+p32
+(S'f8'
+p33
+I0
+I1
+tp34
+Rp35
+(I3
+S'<'
+p36
+NNNI-1
+I-1
+I0
+tp37
+bS'\x00\x00\x00\x00\x00\x00\x00\x00'
+p38
+tp39
+Rp40
+sS'dis'
+p41
+(lp42
+S'\x0200II0.485W0.000ML\x03'
+p43
+aS'\x0201SI0.000W0.000ML\x03'
+p44
+assI1
+(dp45
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x00$@'
+p46
+tp47
+Rp48
+sg41
+(lp49
+S'\x0200SI1.000W0.000ML\x03'
+p50
+aS'\x0201SI0.500W0.000ML\x03'
+p51
+assI2
+(dp52
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x004@'
+p53
+tp54
+Rp55
+sg41
+(lp56
+S'\x0200II1.985W0.000ML\x03'
+p57
+aS'\x0201SI0.500W0.000ML\x03'
+p58
+assI3
+(dp59
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x00>@'
+p60
+tp61
+Rp62
+sg41
+(lp63
+S'\x0200II2.990W0.000ML\x03'
+p64
+aS'\x0201SI0.500W0.000ML\x03'
+p65
+assI4
+(dp66
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x00D@'
+p67
+tp68
+Rp69
+sg41
+(lp70
+S'\x0200SI3.501W0.000ML\x03'
+p71
+aS'\x0201SI1.000W0.000ML\x03'
+p72
+assI5
+(dp73
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x00I@'
+p74
+tp75
+Rp76
+sg41
+(lp77
+S'\x0200SI4.001W0.000ML\x03'
+p78
+aS'\x0201SI1.500W0.000ML\x03'
+p79
+assI6
+(dp80
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x00N@'
+p81
+tp82
+Rp83
+sg41
+(lp84
+S'\x0200II4.987W0.000ML\x03'
+p85
+aS'\x0201SI1.500W0.000ML\x03'
+p86
+assI7
+(dp87
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x80Q@'
+p88
+tp89
+Rp90
+sg41
+(lp91
+S'\x0200II5.988W0.000ML\x03'
+p92
+aS'\x0201SI1.500W0.000ML\x03'
+p93
+assI8
+(dp94
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x00T@'
+p95
+tp96
+Rp97
+sg41
+(lp98
+S'\x0200II6.989W0.000ML\x03'
+p99
+aS'\x0201SI1.500W0.000ML\x03'
+p100
+assI9
+(dp101
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x80V@'
+p102
+tp103
+Rp104
+sg41
+(lp105
+S''
+p106
+ag106
+assI10
+(dp107
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x00Y@'
+p108
+tp109
+Rp110
+sg41
+(lp111
+g106
+ag106
+assI11
+(dp112
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x80[@'
+p113
+tp114
+Rp115
+sg41
+(lp116
+g106
+ag106
+assI12
+(dp117
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x00^@'
+p118
+tp119
+Rp120
+sg41
+(lp121
+g106
+ag106
+assI13
+(dp122
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00@`@'
+p123
+tp124
+Rp125
+sg41
+(lp126
+g106
+ag106
+assI14
+(dp127
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x80a@'
+p128
+tp129
+Rp130
+sg41
+(lp131
+g106
+ag106
+assI15
+(dp132
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\xc0b@'
+p133
+tp134
+Rp135
+sg41
+(lp136
+g106
+ag106
+assI16
+(dp137
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x00d@'
+p138
+tp139
+Rp140
+sg41
+(lp141
+g106
+ag106
+assI17
+(dp142
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00@e@'
+p143
+tp144
+Rp145
+sg41
+(lp146
+g106
+ag106
+assI18
+(dp147
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x80f@'
+p148
+tp149
+Rp150
+sg41
+(lp151
+g106
+ag106
+assI19
+(dp152
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\xc0g@'
+p153
+tp154
+Rp155
+sg41
+(lp156
+g106
+ag106
+assI20
+(dp157
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x00i@'
+p158
+tp159
+Rp160
+sg41
+(lp161
+g106
+ag106
+assI21
+(dp162
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00@j@'
+p163
+tp164
+Rp165
+sg41
+(lp166
+g106
+ag106
+assI22
+(dp167
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\x80k@'
+p168
+tp169
+Rp170
+sg41
+(lp171
+g106
+ag106
+assI23
+(dp172
+g30
+g31
+(g35
+S'\x00\x00\x00\x00\x00\xc0l@'
+p173
+tp174
+Rp175
+sg41
+(lp176
+g106
+ag106
+asssS'simulated_response'
+p177
+I00
+sS'script'
+p178
+(lp179
+S'"""\n'
+p180
+aS'deliver juice\n'
+p181
+aS'"""\n'
+p182
+aS'#####to run, in shell window <execfile("liquid2.py"), it initially doesn\'t work run via gui, then close and run cmdline#####\n'
+p183
+aS'import psychopy.app\n'
+p184
+aS'import numpy as N\n'
+p185
+aS'import sys,os,pickle\n'
+p186
+aS'################################################\n'
+p187
+aS"sys.path.insert(0, '/Users/imagining/Downloads/pyserial-2.6')\n"
+p188
+aS"#####THIS IS IMPORTANT DON'T MESS WITH IT#######\n"
+p189
+aS"sys.path.append('/Users/imagining/Desktop/liquid_working')\n"
+p190
+aS'import cv2\n'
+p191
+aS'import syringe_pump\n'
+p192
+aS'from psychopy import visual, core, event, logging, data, misc, sound\n'
+p193
+aS'\n'
+p194
+aS'import socket\n'
+p195
+aS'from socket import gethostname\n'
+p196
+aS'import inspect\n'
+p197
+aS"sys.path.append('/Users/imagining/Desktop/liquid/psychtask')\n"
+p198
+ag194
+aS'import exptutils\n'
+p199
+aS'from exptutils import *\n'
+p200
+ag194
+aS'import datetime\n'
+p201
+ag194
+aS'def store_scriptfile():\n'
+p202
+aS'    scriptfile= inspect.getfile(inspect.currentframe())# save a copy of the script in the data file\n'
+p203
+aS'    f=open(scriptfile)\n'
+p204
+aS'    script=f.readlines()\n'
+p205
+aS'    f.close()\n'
+p206
+aS'    return script\n'
+p207
+ag194
+aS'def check_for_quit(subdata,win):\n'
+p208
+aS'    k=event.getKeys()\n'
+p209
+aS"    print 'checking for quit key %s'%subdata['quit_key']\n"
+p210
+aS"    print 'found:',k\n"
+p211
+aS"    if k.count(subdata['quit_key']) >0:# if subdata['quit_key'] is pressed...\n"
+p212
+aS"        print 'quit key pressed'\n"
+p213
+aS'        return True\n'
+p214
+aS'    else:\n'
+p215
+aS'        return False\n'
+p216
+ag194
+aS'def wait_for_trigger():\n'
+p217
+aS'    event.clearEvents()\n'
+p218
+aS"    if subdata['simulated_response']:\n"
+p219
+aS'        msg="SIMULATION MODE"\n'
+p220
+aS'    else:\n'
+p221
+aS"        msg=''\n"
+p222
+aS"    message=visual.TextStim(win, text='%s Waiting for start key (or press %s)\\nBe very still!'%(msg,subdata['start_key']),\n"
+p223
+aS"    font='BiauKai', height=1,color=u'white', colorSpace=u'rgb', opacity=1,depth=0.0,\n"
+p224
+aS"    alignHoriz='center',wrapWidth=50)\n"
+p225
+aS'    message.setAutoDraw(True) #automatically draw every frame\n'
+p226
+aS'    win.flip()\n'
+p227
+aS'    start=False\n'
+p228
+aS'    while start==False:\n'
+p229
+aS'        k=event.waitKeys()\n'
+p230
+aS"        if k.count(subdata['start_key'])>0:#as soon as subdata['start_key'] is pressed...\n"
+p231
+aS'            start=True\n'
+p232
+aS"            message.setText('')#this clears the screen\n"
+p233
+aS'            win.flip()\n'
+p234
+aS"        if k.count(subdata['quit_key']) >0:# if subdata['quit_key'] is pressed...\n"
+p235
+aS'            exptutils.shut_down_cleanly(subdata,win)\n'
+p236
+aS'            return False\n'
+p237
+aS'    return True\n'
+p238
+ag194
+aS'subdata={}\n'
+p239
+aS"#subdata['subcode']='test'\n"
+p240
+aS"subdata['subcode']=raw_input('subject id: ')\n"
+p241
+ag194
+aS'# initialize subdata dictionary to store info about the study\n'
+p242
+aS"subdata['completed']=0\n"
+p243
+aS"subdata['cwd']=os.getcwd()\n"
+p244
+aS"subdata['hostname']=socket.gethostname()\n"
+p245
+aS'clock=core.Clock()\n'
+p246
+aS'datestamp=datetime.datetime.now().strftime("%Y-%m-%d-%H_%M_%S")\n'
+p247
+aS"subdata['datestamp']=datestamp\n"
+p248
+aS"subdata['expt_title']='tampico_probabilistic'\n"
+p249
+aS"subdata['script']=store_scriptfile()\n"
+p250
+aS"subdata['response']={}\n"
+p251
+aS"subdata['score']={}\n"
+p252
+aS"subdata['rt']={}\n"
+p253
+aS"subdata['stim_onset_time']={}\n"
+p254
+aS"subdata['stim_log']={}\n"
+p255
+aS"subdata['is_this_SS_trial']={}\n"
+p256
+aS"subdata['SS']={}\n"
+p257
+aS"subdata['broke_on_trial']={}\n"
+p258
+ag194
+aS"subdata['start_key']='5'\n"
+p259
+aS"subdata['quit_key']='q'\n"
+p260
+ag194
+aS"subdata['simulated_response']=False\n"
+p261
+ag194
+aS"dataFileName='Output/%s_%s_subdata.log'%(subdata['subcode'],subdata['datestamp'])\n"
+p262
+aS'logging.console.setLevel(logging.INFO)\n'
+p263
+aS'logfile=logging.LogFile(dataFileName,level=logging.DATA)\n'
+p264
+ag194
+ag194
+aS'try:\n'
+p265
+aS"    print 'initializing serial device:'\n"
+p266
+aS"    dev=syringe_pump.SyringePump('/dev/tty.usbserial')\n"
+p267
+aS'    print dev\n'
+p268
+aS"    print 'using serial device: ', dev\n"
+p269
+aS'    if not dev.isOpen():\n'
+p270
+aS"        raise Exception('noPump')\n"
+p271
+aS'    hasPump=True\n'
+p272
+aS'except:\n'
+p273
+aS'    hasPump=False\n'
+p274
+ag194
+ag194
+aS'#from new_era import PumpInterface\n'
+p275
+aS"#pi = PumpInterface(port='/dev/tty.usbserial')\n"
+p276
+ag194
+aS'# deliver 0.5 ml over 5 seconds\n'
+p277
+aS'# equates to\n'
+p278
+ag194
+aS'diameter=26.59\n'
+p279
+aS'mls_to_deliver=0.5\n'
+p280
+aS'delivery_time=2.0\n'
+p281
+aS'cue_time=2.0\n'
+p282
+aS'wait_time=2.0\n'
+p283
+aS'rinse_time=2.0\n'
+p284
+aS'swallow_time=2.0\n'
+p285
+aS'trial_length=cue_time+delivery_time+wait_time+rinse_time+swallow_time\n'
+p286
+ag194
+aS'rate = mls_to_deliver*(3600.0/delivery_time)  # mls/hour\n'
+p287
+ag194
+aS"trialcond=N.zeros(24).astype('int')\n"
+p288
+ag194
+aS'trialcond[0:8]=0     # water cue, water delivery\n'
+p289
+aS'trialcond[8:12]=1    # water cue, juice delivery\n'
+p290
+aS'trialcond[12:20]=2   # juice cue, juice delivery\n'
+p291
+aS'trialcond[20:24]=3   # juice cue, water delivery\n'
+p292
+aS"stim_images=['bottled_water.jpg','bottled_water.jpg','tampico.jpg','tampico.jpg']\n"
+p293
+aS'ntrials=len(trialcond)\n'
+p294
+aS'pump=N.zeros(ntrials)\n'
+p295
+ag194
+aS'N.random.shuffle(trialcond)\n'
+p296
+ag194
+aS'# pump zero is neutral, pump 1 is juice\n'
+p297
+ag194
+aS'pump[trialcond==1]=1\n'
+p298
+aS'pump[trialcond==2]=1\n'
+p299
+ag194
+ag194
+ag194
+aS'onsets=N.arange(0,ntrials*trial_length,step=trial_length)\n'
+p300
+ag194
+ag194
+aS'# clear infusion measurements\n'
+p301
+aS'if hasPump:\n'
+p302
+aS"    commands_to_send=['0PHN01','1PHN01','0CLDINF','1CLDINF','0DIRINF','1DIRINF','0RAT%0.1fMH'%rate,'1RAT%0.1fMH'%rate,'0VOL%0.1f'%mls_to_deliver,'1VOL%0.1f'%mls_to_deliver,'0DIA%0.1fMH'%diameter,'1DIA%0.1fMH'%diameter]\n"
+p303
+aS"    subdata['pumpver']=dev.sendCmd('VER')\n"
+p304
+ag194
+aS'    dev.setBaudrate(9600)\n'
+p305
+ag194
+aS'    for cmd in commands_to_send:\n'
+p306
+aS"        print 'sending: ',cmd\n"
+p307
+aS'        dev.sendCmd(cmd)\n'
+p308
+aS'        core.wait(0.1)\n'
+p309
+ag194
+aS"    subdata['pumpdata']={}\n"
+p310
+aS'    for p in [0,1]:\n'
+p311
+aS"        for cmd in ['DIS','DIR','RAT','VOL','DIA']:\n"
+p312
+aS"            fullcmd='%d%s'%(p,cmd)\n"
+p313
+aS"            subdata['pumpdata'][fullcmd]=dev.sendCmd(fullcmd)\n"
+p314
+aS'            core.wait(0.1)\n'
+p315
+ag194
+aS"    print subdata['pumpdata']\n"
+p316
+ag194
+aS'# setup screen\n'
+p317
+ag194
+aS'fullscr=False\n'
+p318
+ag194
+aS"win = visual.Window([800,600],allowGUI=True, fullscr=fullscr, monitor='testMonitor', units='deg')\n"
+p319
+aS"visual_stim=visual.ImageStim(win, image=N.zeros((300,300)), size=(0.75,0.75),units='height')\n"
+p320
+ag194
+aS'event.clearEvents()\n'
+p321
+aS'wt=wait_for_trigger()\n'
+p322
+aS'if not wt:\n'
+p323
+aS"    print 'quit button pressed!'\n"
+p324
+aS'    sys.exit()\n'
+p325
+aS'else:\n'
+p326
+aS'    print "quit status:",wt\n'
+p327
+aS'    \n'
+p328
+aS"message=visual.TextStim(win, text='')\n"
+p329
+ag194
+aS"subdata['trialdata']={}\n"
+p330
+aS'clock.reset()\n'
+p331
+aS'event.clearEvents()\n'
+p332
+ag194
+aS'for trial in range(ntrials):\n'
+p333
+aS'    if check_for_quit(subdata,win):\n'
+p334
+aS'        exptutils.shut_down_cleanly(subdata,win)\n'
+p335
+aS'        sys.exit()\n'
+p336
+ag194
+aS'    trialdata={}\n'
+p337
+aS"    print 'trial %d'%trial\n"
+p338
+aS"    trialdata['onset']=onsets[trial]\n"
+p339
+aS"    print 'condition %d'%trialcond[trial]\n"
+p340
+aS'    logging.log(logging.DATA,"Condition: %d"%trialcond[trial])\n'
+p341
+aS"    print 'showing image: %s'%stim_images[trialcond[trial]]\n"
+p342
+aS'    visual_stim.setImage(stim_images[trialcond[trial]])\n'
+p343
+aS'    visual_stim.draw()\n'
+p344
+aS'    logging.log(logging.DATA, "image=%s"%stim_images[trialcond[trial]])\n'
+p345
+aS"    while clock.getTime()<trialdata['onset']:#wait until the specified onset time to display image_file\n"
+p346
+aS'        if check_for_quit(subdata,win):\n'
+p347
+aS'            exptutils.shut_down_cleanly(subdata,win)\n'
+p348
+aS'            sys.exit()\n'
+p349
+aS'    win.flip()\n'
+p350
+ag194
+aS"    while clock.getTime()<(trialdata['onset']+cue_time):#show the image\n"
+p351
+aS'        pass\n'
+p352
+ag194
+aS'    if hasPump:\n'
+p353
+aS"        print 'injecting via pump at address %d'%pump[trial]\n"
+p354
+aS'        logging.log(logging.DATA,"injecting via pump at address %d"%pump[trial])\n'
+p355
+ag194
+aS"        dev.sendCmd('%dRUN'%pump[trial])\n"
+p356
+aS'    else:\n'
+p357
+aS"        print 'no pump: should be injecting via pump at address %d'%pump[trial]\n"
+p358
+ag194
+aS"    while clock.getTime()<(trialdata['onset']+cue_time+delivery_time):#wait until liquid is delivered\n"
+p359
+aS'        pass\n'
+p360
+aS"    message=visual.TextStim(win, text='')\n"
+p361
+aS'    message.draw()\n'
+p362
+aS'    win.flip()\n'
+p363
+aS'    if hasPump:\n'
+p364
+aS"        trialdata['dis']=[dev.sendCmd('0DIS'),dev.sendCmd('1DIS')]\n"
+p365
+ag194
+ag194
+aS"    while clock.getTime()<(trialdata['onset']+cue_time+delivery_time+wait_time):\n"
+p366
+aS'        pass\n'
+p367
+ag194
+aS'    if hasPump:\n'
+p368
+aS"        print 'injecting rinse via pump at address %d'%0\n"
+p369
+aS"        dev.sendCmd('%dRUN'%0)\n"
+p370
+aS'    else:\n'
+p371
+aS"        print 'no pump: should be injecting rinse via pump at address %d'%pump[trial]\n"
+p372
+ag194
+aS"    while clock.getTime()<(trialdata['onset']+cue_time+delivery_time+wait_time+rinse_time):\n"
+p373
+aS'        pass\n'
+p374
+ag194
+aS"    message=visual.TextStim(win, text='swallow')\n"
+p375
+aS'    message.draw()\n'
+p376
+aS'    win.flip()\n'
+p377
+ag194
+aS"    while clock.getTime()<(trialdata['onset']+cue_time+delivery_time+wait_time+rinse_time+swallow_time):\n"
+p378
+aS'        pass\n'
+p379
+aS"    message=visual.TextStim(win, text='')\n"
+p380
+aS'    message.draw()\n'
+p381
+aS'    win.flip()\n'
+p382
+ag194
+aS"    while clock.getTime()<(trialdata['onset']+trial_length):\n"
+p383
+aS'        pass\n'
+p384
+ag194
+aS"    subdata['trialdata'][trial]=trialdata           \n"
+p385
+ag194
+aS'win.close()\n'
+p386
+ag194
+aS"#print dev.sendCmd('VER')\n"
+p387
+aS"f=open('Output/liquid_subdata_%s.pkl'%datestamp,'wb')\n"
+p388
+aS'pickle.dump(subdata,f)\n'
+p389
+aS'f.close()\n'
+p390
+asS'SS'
+p391
+(dp392
+sS'pumpver'
+p393
+g106
+sS'completed'
+p394
+I0
+sS'hostname'
+p395
+S'wireless-10-145-43-249.public.utexas.edu'
+p396
+sS'quit_key'
+p397
+S'q'
+p398
+sS'stim_onset_time'
+p399
+(dp400
+sS'response'
+p401
+(dp402
+sS'is_this_SS_trial'
+p403
+(dp404
+sS'subcode'
+p405
+S'sb_0058'
+p406
+sS'score'
+p407
+(dp408
+sS'broke_on_trial'
+p409
+(dp410
+sS'datestamp'
+p411
+S'2015-05-20-08_44_57'
+p412
+sS'start_key'
+p413
+S'5'
+p414
+sS'cwd'
+p415
+S'/Users/imagining/Desktop/liquid_working'
+p416
+sS'expt_title'
+p417
+S'tampico_probabilistic'
+p418
+s.

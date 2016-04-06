@@ -1,0 +1,837 @@
+391.0012 	DATA 	Keypress: 5
+391.0320 	Level Condition: 0 	25
+391.0409 	Level image=bottled_water.jpg 	25
+393.0245 	Level injecting via pump at address 0 	25
+395.0326 	DATA 	Keypress: 5
+395.0480 	DATA 	Keypress: 5
+395.0485 	DATA 	Keypress: 5
+399.0412 	DATA 	Keypress: 5
+399.0416 	DATA 	Keypress: 5
+399.0419 	DATA 	Keypress: 5
+401.0238 	DATA 	Keypress: 5
+401.0241 	DATA 	Keypress: 5
+401.0523 	Level Condition: 0 	25
+401.0578 	Level image=bottled_water.jpg 	25
+403.0216 	Level injecting via pump at address 0 	25
+405.0331 	DATA 	Keypress: 5
+405.0335 	DATA 	Keypress: 5
+405.0338 	DATA 	Keypress: 5
+405.0343 	DATA 	Keypress: 5
+409.0368 	DATA 	Keypress: 5
+409.0371 	DATA 	Keypress: 5
+409.0374 	DATA 	Keypress: 5
+411.0238 	DATA 	Keypress: 5
+411.0241 	DATA 	Keypress: 5
+411.0407 	Level Condition: 1 	25
+411.0463 	Level image=bottled_water.jpg 	25
+413.0216 	Level injecting via pump at address 1 	25
+415.0330 	DATA 	Keypress: 5
+415.0426 	DATA 	Keypress: 5
+415.0430 	DATA 	Keypress: 5
+419.0374 	DATA 	Keypress: 5
+419.0378 	DATA 	Keypress: 5
+419.0381 	DATA 	Keypress: 5
+419.0384 	DATA 	Keypress: 5
+421.0238 	DATA 	Keypress: 5
+421.0355 	Level Condition: 0 	25
+421.0409 	Level image=bottled_water.jpg 	25
+423.0216 	Level injecting via pump at address 0 	25
+425.0372 	DATA 	Keypress: 5
+425.0376 	DATA 	Keypress: 5
+425.0489 	DATA 	Keypress: 5
+425.0496 	DATA 	Keypress: 5
+429.0369 	DATA 	Keypress: 5
+429.0373 	DATA 	Keypress: 5
+429.0376 	DATA 	Keypress: 5
+431.0248 	DATA 	Keypress: 5
+431.0251 	DATA 	Keypress: 5
+431.0352 	Level Condition: 2 	25
+431.0383 	Level image=tampico.jpg 	25
+433.0217 	Level injecting via pump at address 1 	25
+435.0352 	DATA 	Keypress: 5
+435.0542 	DATA 	Keypress: 5
+435.0547 	DATA 	Keypress: 5
+439.0371 	DATA 	Keypress: 5
+439.0375 	DATA 	Keypress: 5
+439.0378 	DATA 	Keypress: 5
+439.0383 	DATA 	Keypress: 5
+441.0241 	DATA 	Keypress: 5
+441.0244 	DATA 	Keypress: 5
+441.0407 	Level Condition: 2 	25
+441.0439 	Level image=tampico.jpg 	25
+443.0216 	Level injecting via pump at address 1 	25
+445.0331 	DATA 	Keypress: 5
+445.0438 	DATA 	Keypress: 5
+445.0443 	DATA 	Keypress: 5
+449.0367 	DATA 	Keypress: 5
+449.0371 	DATA 	Keypress: 5
+449.0374 	DATA 	Keypress: 5
+449.0378 	DATA 	Keypress: 5
+451.0238 	DATA 	Keypress: 5
+451.0412 	Level Condition: 1 	25
+451.0471 	Level image=bottled_water.jpg 	25
+453.0216 	Level injecting via pump at address 1 	25
+455.0333 	DATA 	Keypress: 5
+455.0485 	DATA 	Keypress: 5
+455.0490 	DATA 	Keypress: 5
+455.0497 	DATA 	Keypress: 5
+459.0365 	DATA 	Keypress: 5
+459.0369 	DATA 	Keypress: 5
+459.0372 	DATA 	Keypress: 5
+461.0238 	DATA 	Keypress: 5
+461.0242 	DATA 	Keypress: 5
+461.0358 	Level Condition: 2 	25
+461.0392 	Level image=tampico.jpg 	25
+463.0216 	Level injecting via pump at address 1 	25
+465.0339 	DATA 	Keypress: 5
+465.0438 	DATA 	Keypress: 5
+465.0442 	DATA 	Keypress: 5
+469.0368 	DATA 	Keypress: 5
+469.0371 	DATA 	Keypress: 5
+469.0374 	DATA 	Keypress: 5
+469.0378 	DATA 	Keypress: 5
+471.0238 	DATA 	Keypress: 5
+471.0405 	Level Condition: 0 	25
+471.0461 	Level image=bottled_water.jpg 	25
+471.0650 	DATA 	Keypress: 5
+473.0216 	Level injecting via pump at address 0 	25
+475.0336 	DATA 	Keypress: 5
+475.0435 	DATA 	Keypress: 5
+475.0442 	DATA 	Keypress: 5
+479.0375 	DATA 	Keypress: 5
+479.0379 	DATA 	Keypress: 5
+479.0382 	DATA 	Keypress: 5
+481.0238 	DATA 	Keypress: 5
+481.0241 	DATA 	Keypress: 5
+481.0467 	Level Condition: 3 	25
+481.0504 	Level image=tampico.jpg 	25
+483.0216 	Level injecting via pump at address 0 	25
+485.0331 	DATA 	Keypress: 5
+485.0335 	DATA 	Keypress: 5
+485.0338 	DATA 	Keypress: 5
+485.0344 	DATA 	Keypress: 5
+489.0478 	DATA 	Keypress: 5
+489.0482 	DATA 	Keypress: 5
+489.0486 	DATA 	Keypress: 5
+491.0236 	DATA 	Keypress: 5
+491.0240 	DATA 	Keypress: 5
+491.0346 	Level Condition: 1 	25
+491.0397 	Level image=bottled_water.jpg 	25
+493.0217 	Level injecting via pump at address 1 	25
+495.0332 	DATA 	Keypress: 5
+495.0336 	DATA 	Keypress: 5
+495.0338 	DATA 	Keypress: 5
+499.0558 	DATA 	Keypress: 5
+499.0563 	DATA 	Keypress: 5
+499.0567 	DATA 	Keypress: 5
+499.0570 	DATA 	Keypress: 5
+501.0256 	DATA 	Keypress: 5
+501.0421 	Level Condition: 0 	25
+501.0473 	Level image=bottled_water.jpg 	25
+503.0216 	Level injecting via pump at address 0 	25
+505.0335 	DATA 	Keypress: 5
+505.0340 	DATA 	Keypress: 5
+505.0342 	DATA 	Keypress: 5
+505.0375 	DATA 	Keypress: 5
+509.0520 	DATA 	Keypress: 5
+509.0525 	DATA 	Keypress: 5
+509.0529 	DATA 	Keypress: 5
+511.0238 	DATA 	Keypress: 5
+511.0242 	DATA 	Keypress: 5
+511.0341 	Level Condition: 3 	25
+511.0372 	Level image=tampico.jpg 	25
+513.0217 	Level injecting via pump at address 0 	25
+515.0333 	DATA 	Keypress: 5
+515.0337 	DATA 	Keypress: 5
+515.0339 	DATA 	Keypress: 5
+519.0506 	DATA 	Keypress: 5
+519.0512 	DATA 	Keypress: 5
+519.0517 	DATA 	Keypress: 5
+519.0520 	DATA 	Keypress: 5
+521.0237 	DATA 	Keypress: 5
+521.0240 	DATA 	Keypress: 5
+521.0366 	Level Condition: 3 	25
+521.0395 	Level image=tampico.jpg 	25
+523.0216 	Level injecting via pump at address 0 	25
+525.0330 	DATA 	Keypress: 5
+525.0334 	DATA 	Keypress: 5
+525.0337 	DATA 	Keypress: 5
+529.0544 	DATA 	Keypress: 5
+529.0548 	DATA 	Keypress: 5
+529.0551 	DATA 	Keypress: 5
+529.0557 	DATA 	Keypress: 5
+531.0241 	DATA 	Keypress: 5
+531.0395 	Level Condition: 0 	25
+531.0450 	Level image=bottled_water.jpg 	25
+533.0216 	Level injecting via pump at address 0 	25
+535.0336 	DATA 	Keypress: 5
+535.0340 	DATA 	Keypress: 5
+535.0342 	DATA 	Keypress: 5
+535.0347 	DATA 	Keypress: 5
+539.0577 	DATA 	Keypress: 5
+539.0590 	DATA 	Keypress: 5
+539.0594 	DATA 	Keypress: 5
+541.0237 	DATA 	Keypress: 5
+541.0241 	DATA 	Keypress: 5
+541.0401 	Level Condition: 2 	25
+541.0435 	Level image=tampico.jpg 	25
+543.0216 	Level injecting via pump at address 1 	25
+545.0332 	DATA 	Keypress: 5
+545.0336 	DATA 	Keypress: 5
+545.0339 	DATA 	Keypress: 5
+549.0525 	DATA 	Keypress: 5
+549.0529 	DATA 	Keypress: 5
+549.0533 	DATA 	Keypress: 5
+549.0537 	DATA 	Keypress: 5
+551.0240 	DATA 	Keypress: 5
+551.0373 	Level Condition: 2 	25
+551.0402 	Level image=tampico.jpg 	25
+553.0216 	Level injecting via pump at address 1 	25
+555.0333 	DATA 	Keypress: 5
+555.0337 	DATA 	Keypress: 5
+555.0360 	DATA 	Keypress: 5
+555.0367 	DATA 	Keypress: 5
+559.0573 	DATA 	Keypress: 5
+559.0578 	DATA 	Keypress: 5
+559.0582 	DATA 	Keypress: 5
+561.0239 	DATA 	Keypress: 5
+561.0243 	DATA 	Keypress: 5
+561.0432 	Level Condition: 3 	25
+561.0465 	Level image=tampico.jpg 	25
+563.0216 	Level injecting via pump at address 0 	25
+565.0337 	DATA 	Keypress: 5
+565.0341 	DATA 	Keypress: 5
+565.0344 	DATA 	Keypress: 5
+565.0370 	DATA 	Keypress: 5
+569.0626 	DATA 	Keypress: 5
+569.0631 	DATA 	Keypress: 5
+569.0635 	DATA 	Keypress: 5
+571.0239 	DATA 	Keypress: 5
+571.0243 	DATA 	Keypress: 5
+571.0455 	Level Condition: 0 	25
+571.0548 	Level image=bottled_water.jpg 	25
+573.0216 	Level injecting via pump at address 0 	25
+575.0333 	DATA 	Keypress: 5
+575.0337 	DATA 	Keypress: 5
+575.0339 	DATA 	Keypress: 5
+579.0374 	DATA 	Keypress: 5
+579.0461 	DATA 	Keypress: 5
+579.0464 	DATA 	Keypress: 5
+579.0468 	DATA 	Keypress: 5
+581.0239 	DATA 	Keypress: 5
+581.0369 	Level Condition: 2 	25
+581.0402 	Level image=tampico.jpg 	25
+583.0216 	Level injecting via pump at address 1 	25
+585.0361 	DATA 	Keypress: 5
+585.0365 	DATA 	Keypress: 5
+585.0368 	DATA 	Keypress: 5
+585.0372 	DATA 	Keypress: 5
+589.0389 	DATA 	Keypress: 5
+589.0480 	DATA 	Keypress: 5
+589.0484 	DATA 	Keypress: 5
+591.0239 	DATA 	Keypress: 5
+591.0243 	DATA 	Keypress: 5
+591.0451 	Level Condition: 1 	25
+591.0506 	Level image=bottled_water.jpg 	25
+593.0217 	Level injecting via pump at address 1 	25
+595.0331 	DATA 	Keypress: 5
+595.0335 	DATA 	Keypress: 5
+595.0338 	DATA 	Keypress: 5
+599.0414 	DATA 	Keypress: 5
+599.0623 	DATA 	Keypress: 5
+599.0627 	DATA 	Keypress: 5
+599.0631 	DATA 	Keypress: 5
+601.0236 	DATA 	Keypress: 5
+601.0240 	DATA 	Keypress: 5
+601.0494 	Level Condition: 2 	25
+601.0531 	Level image=tampico.jpg 	25
+603.0219 	Level injecting via pump at address 1 	25
+605.0333 	DATA 	Keypress: 5
+605.0337 	DATA 	Keypress: 5
+605.0341 	DATA 	Keypress: 5
+609.0515 	DATA 	Keypress: 5
+609.0520 	DATA 	Keypress: 5
+609.0524 	DATA 	Keypress: 5
+611.0239 	DATA 	Keypress: 5
+611.0243 	DATA 	Keypress: 5
+611.0337 	Level Condition: 0 	25
+611.0386 	Level image=bottled_water.jpg 	25
+613.0217 	Level injecting via pump at address 0 	25
+615.0333 	DATA 	Keypress: 5
+615.0337 	DATA 	Keypress: 5
+615.0340 	DATA 	Keypress: 5
+615.0345 	DATA 	Keypress: 5
+619.0548 	DATA 	Keypress: 5
+619.0552 	DATA 	Keypress: 5
+619.0556 	DATA 	Keypress: 5
+621.0239 	DATA 	Keypress: 5
+621.0242 	DATA 	Keypress: 5
+621.0377 	Level Condition: 2 	25
+621.0408 	Level image=tampico.jpg 	25
+623.0217 	Level injecting via pump at address 1 	25
+625.0331 	DATA 	Keypress: 5
+625.0334 	DATA 	Keypress: 5
+625.0337 	DATA 	Keypress: 5
+629.0548 	DATA 	Keypress: 5
+629.0552 	DATA 	Keypress: 5
+629.0557 	DATA 	Keypress: 5
+629.0560 	DATA 	Keypress: 5
+631.0239 	DATA 	Keypress: 5
+4398.5778 	DATA 	Keypress: 5
+4398.6321 	Level Condition: 3 	25
+4398.6370 	Level image=tampico.jpg 	25
+4400.6163 	Level injecting via pump at address 0 	25
+4402.6249 	DATA 	Keypress: 5
+4402.6252 	DATA 	Keypress: 5
+4402.6255 	DATA 	Keypress: 5
+4406.6288 	DATA 	Keypress: 5
+4406.6292 	DATA 	Keypress: 5
+4406.6295 	DATA 	Keypress: 5
+4408.6154 	DATA 	Keypress: 5
+4408.6181 	DATA 	Keypress: 5
+4408.6390 	Level Condition: 0 	25
+4408.6459 	Level image=bottled_water.jpg 	25
+4410.6132 	Level injecting via pump at address 0 	25
+4412.6247 	DATA 	Keypress: 5
+4412.6250 	DATA 	Keypress: 5
+4412.6253 	DATA 	Keypress: 5
+4412.6258 	DATA 	Keypress: 5
+4416.6313 	DATA 	Keypress: 5
+4416.6316 	DATA 	Keypress: 5
+4416.6319 	DATA 	Keypress: 5
+4418.6153 	DATA 	Keypress: 5
+4418.6156 	DATA 	Keypress: 5
+4418.6334 	Level Condition: 3 	25
+4418.6371 	Level image=tampico.jpg 	25
+4420.6136 	Level injecting via pump at address 0 	25
+4422.6298 	DATA 	Keypress: 5
+4422.6305 	DATA 	Keypress: 5
+4422.6309 	DATA 	Keypress: 5
+4426.6325 	DATA 	Keypress: 5
+4426.6330 	DATA 	Keypress: 5
+4426.6416 	DATA 	Keypress: 5
+4426.6422 	DATA 	Keypress: 5
+4428.6171 	DATA 	Keypress: 5
+4428.6449 	Level Condition: 0 	25
+4428.6519 	Level image=bottled_water.jpg 	25
+4430.6131 	Level injecting via pump at address 0 	25
+4432.6247 	DATA 	Keypress: 5
+4432.6252 	DATA 	Keypress: 5
+4432.6254 	DATA 	Keypress: 5
+4432.6259 	DATA 	Keypress: 5
+4436.6286 	DATA 	Keypress: 5
+4436.6290 	DATA 	Keypress: 5
+4436.6293 	DATA 	Keypress: 5
+4438.6153 	DATA 	Keypress: 5
+4438.6156 	DATA 	Keypress: 5
+4438.6265 	Level Condition: 2 	25
+4438.6298 	Level image=tampico.jpg 	25
+4440.6132 	Level injecting via pump at address 1 	25
+4442.6248 	DATA 	Keypress: 5
+4442.6454 	DATA 	Keypress: 5
+4442.6458 	DATA 	Keypress: 5
+4446.6312 	DATA 	Keypress: 5
+4446.6316 	DATA 	Keypress: 5
+4446.6319 	DATA 	Keypress: 5
+4446.6324 	DATA 	Keypress: 5
+4448.6153 	DATA 	Keypress: 5
+4448.6156 	DATA 	Keypress: 5
+4448.6291 	Level Condition: 2 	25
+4448.6323 	Level image=tampico.jpg 	25
+4450.6132 	Level injecting via pump at address 1 	25
+4452.6262 	DATA 	Keypress: 5
+4452.6266 	DATA 	Keypress: 5
+4452.6268 	DATA 	Keypress: 5
+4456.6351 	DATA 	Keypress: 5
+4456.6354 	DATA 	Keypress: 5
+4456.6357 	DATA 	Keypress: 5
+4456.6359 	DATA 	Keypress: 5
+4458.6156 	DATA 	Keypress: 5
+4458.6275 	Level Condition: 0 	25
+4458.6331 	Level image=bottled_water.jpg 	25
+4460.6132 	Level injecting via pump at address 0 	25
+4462.6249 	DATA 	Keypress: 5
+4462.6253 	DATA 	Keypress: 5
+4462.6256 	DATA 	Keypress: 5
+4462.6260 	DATA 	Keypress: 5
+4466.6289 	DATA 	Keypress: 5
+4466.6293 	DATA 	Keypress: 5
+4466.6296 	DATA 	Keypress: 5
+4468.6159 	DATA 	Keypress: 5
+4468.6163 	DATA 	Keypress: 5
+4468.6283 	Level Condition: 2 	25
+4468.6319 	Level image=tampico.jpg 	25
+4470.6132 	Level injecting via pump at address 1 	25
+4472.6244 	DATA 	Keypress: 5
+4472.6248 	DATA 	Keypress: 5
+4472.6250 	DATA 	Keypress: 5
+4476.6305 	DATA 	Keypress: 5
+4476.6504 	DATA 	Keypress: 5
+4476.6509 	DATA 	Keypress: 5
+4476.6513 	DATA 	Keypress: 5
+4478.6150 	DATA 	Keypress: 5
+4478.6301 	DATA 	Keypress: 5
+4478.6368 	Level Condition: 2 	25
+4478.6401 	Level image=tampico.jpg 	25
+4480.6132 	Level injecting via pump at address 1 	25
+4482.6265 	DATA 	Keypress: 5
+4482.6281 	DATA 	Keypress: 5
+4482.6284 	DATA 	Keypress: 5
+4486.6279 	DATA 	Keypress: 5
+4486.6283 	DATA 	Keypress: 5
+4486.6286 	DATA 	Keypress: 5
+4488.6154 	DATA 	Keypress: 5
+4488.6158 	DATA 	Keypress: 5
+4488.6354 	Level Condition: 0 	25
+4488.6418 	Level image=bottled_water.jpg 	25
+4490.6134 	Level injecting via pump at address 0 	25
+4492.6247 	DATA 	Keypress: 5
+4492.6363 	DATA 	Keypress: 5
+4492.6368 	DATA 	Keypress: 5
+4492.6382 	DATA 	Keypress: 5
+4496.6284 	DATA 	Keypress: 5
+4496.6287 	DATA 	Keypress: 5
+4496.6311 	DATA 	Keypress: 5
+4498.6152 	DATA 	Keypress: 5
+4498.6155 	DATA 	Keypress: 5
+4498.6312 	Level Condition: 0 	25
+4498.6368 	Level image=bottled_water.jpg 	25
+4500.6133 	Level injecting via pump at address 0 	25
+4502.6246 	DATA 	Keypress: 5
+4502.6250 	DATA 	Keypress: 5
+4502.6253 	DATA 	Keypress: 5
+4506.6338 	DATA 	Keypress: 5
+4506.6341 	DATA 	Keypress: 5
+4506.6344 	DATA 	Keypress: 5
+4506.6347 	DATA 	Keypress: 5
+4508.6153 	DATA 	Keypress: 5
+4508.6367 	Level Condition: 1 	25
+4508.6422 	Level image=bottled_water.jpg 	25
+4510.6131 	Level injecting via pump at address 1 	25
+4512.6282 	DATA 	Keypress: 5
+4512.6285 	DATA 	Keypress: 5
+4512.6287 	DATA 	Keypress: 5
+4512.6293 	DATA 	Keypress: 5
+4516.6284 	DATA 	Keypress: 5
+4516.6287 	DATA 	Keypress: 5
+4516.6290 	DATA 	Keypress: 5
+4518.6154 	DATA 	Keypress: 5
+4518.6158 	DATA 	Keypress: 5
+4518.6403 	Level Condition: 3 	25
+4518.6440 	Level image=tampico.jpg 	25
+4520.6132 	Level injecting via pump at address 0 	25
+4522.6249 	DATA 	Keypress: 5
+4522.6253 	DATA 	Keypress: 5
+4522.6255 	DATA 	Keypress: 5
+4526.6286 	DATA 	Keypress: 5
+4526.6453 	DATA 	Keypress: 5
+4526.6457 	DATA 	Keypress: 5
+4526.6461 	DATA 	Keypress: 5
+4528.6151 	DATA 	Keypress: 5
+4528.6155 	DATA 	Keypress: 5
+4528.6284 	Level Condition: 0 	25
+4528.6339 	Level image=bottled_water.jpg 	25
+4530.6132 	Level injecting via pump at address 0 	25
+4532.6246 	DATA 	Keypress: 5
+4532.6250 	DATA 	Keypress: 5
+4532.6253 	DATA 	Keypress: 5
+4536.6312 	DATA 	Keypress: 5
+4536.6315 	DATA 	Keypress: 5
+4536.6318 	DATA 	Keypress: 5
+4536.6324 	DATA 	Keypress: 5
+4538.6153 	DATA 	Keypress: 5
+4538.6296 	Level Condition: 1 	25
+4538.6347 	Level image=bottled_water.jpg 	25
+4540.6132 	Level injecting via pump at address 1 	25
+4542.6266 	DATA 	Keypress: 5
+4542.6270 	DATA 	Keypress: 5
+4542.6274 	DATA 	Keypress: 5
+4542.6280 	DATA 	Keypress: 5
+4546.6285 	DATA 	Keypress: 5
+4546.6290 	DATA 	Keypress: 5
+4546.6293 	DATA 	Keypress: 5
+4548.6155 	DATA 	Keypress: 5
+4548.6158 	DATA 	Keypress: 5
+4548.6263 	Level Condition: 1 	25
+4548.6323 	Level image=bottled_water.jpg 	25
+4550.6132 	Level injecting via pump at address 1 	25
+4552.6248 	DATA 	Keypress: 5
+4552.6251 	DATA 	Keypress: 5
+4552.6254 	DATA 	Keypress: 5
+4556.6285 	DATA 	Keypress: 5
+4556.6493 	DATA 	Keypress: 5
+4556.6497 	DATA 	Keypress: 5
+4556.6501 	DATA 	Keypress: 5
+4558.6152 	DATA 	Keypress: 5
+4558.6331 	Level Condition: 2 	25
+4558.6369 	Level image=tampico.jpg 	25
+4560.6133 	Level injecting via pump at address 1 	25
+4562.6249 	DATA 	Keypress: 5
+4562.6253 	DATA 	Keypress: 5
+4562.6276 	DATA 	Keypress: 5
+4562.6281 	DATA 	Keypress: 5
+4566.6318 	DATA 	Keypress: 5
+4566.6322 	DATA 	Keypress: 5
+4566.6324 	DATA 	Keypress: 5
+4568.6153 	DATA 	Keypress: 5
+4568.6179 	DATA 	Keypress: 5
+4568.6374 	Level Condition: 2 	25
+4568.6407 	Level image=tampico.jpg 	25
+4570.6131 	Level injecting via pump at address 1 	25
+4572.6255 	DATA 	Keypress: 5
+4572.6258 	DATA 	Keypress: 5
+4572.6261 	DATA 	Keypress: 5
+4572.6267 	DATA 	Keypress: 5
+4576.6287 	DATA 	Keypress: 5
+4576.6290 	DATA 	Keypress: 5
+4576.6293 	DATA 	Keypress: 5
+4578.6153 	DATA 	Keypress: 5
+4578.6156 	DATA 	Keypress: 5
+4578.6299 	Level Condition: 3 	25
+4578.6332 	Level image=tampico.jpg 	25
+4580.6132 	Level injecting via pump at address 0 	25
+4582.6248 	DATA 	Keypress: 5
+4582.6251 	DATA 	Keypress: 5
+4582.6254 	DATA 	Keypress: 5
+4586.6315 	DATA 	Keypress: 5
+4586.6321 	DATA 	Keypress: 5
+4586.6325 	DATA 	Keypress: 5
+4586.6329 	DATA 	Keypress: 5
+4588.6152 	DATA 	Keypress: 5
+4588.6333 	Level Condition: 1 	25
+4588.6393 	Level image=bottled_water.jpg 	25
+4590.6131 	Level injecting via pump at address 1 	25
+4592.6249 	DATA 	Keypress: 5
+4592.6353 	DATA 	Keypress: 5
+4592.6357 	DATA 	Keypress: 5
+4592.6364 	DATA 	Keypress: 5
+4596.6286 	DATA 	Keypress: 5
+4596.6290 	DATA 	Keypress: 5
+4596.6323 	DATA 	Keypress: 5
+4598.6158 	DATA 	Keypress: 5
+4598.6162 	DATA 	Keypress: 5
+4598.6400 	Level Condition: 0 	25
+4598.6455 	Level image=bottled_water.jpg 	25
+4600.6132 	Level injecting via pump at address 0 	25
+4602.6248 	DATA 	Keypress: 5
+4602.6251 	DATA 	Keypress: 5
+4602.6254 	DATA 	Keypress: 5
+4606.6305 	DATA 	Keypress: 5
+4606.6406 	DATA 	Keypress: 5
+4606.6410 	DATA 	Keypress: 5
+4606.6414 	DATA 	Keypress: 5
+4608.6153 	DATA 	Keypress: 5
+4608.6156 	DATA 	Keypress: 5
+4608.6247 	Level Condition: 0 	25
+4608.6294 	Level image=bottled_water.jpg 	25
+4610.6132 	Level injecting via pump at address 0 	25
+4612.6245 	DATA 	Keypress: 5
+4612.6249 	DATA 	Keypress: 5
+4612.6251 	DATA 	Keypress: 5
+4616.6284 	DATA 	Keypress: 5
+4616.6288 	DATA 	Keypress: 5
+4616.6291 	DATA 	Keypress: 5
+4618.6153 	DATA 	Keypress: 5
+4618.6180 	DATA 	Keypress: 5
+4618.6328 	Level Condition: 2 	25
+4618.6366 	Level image=tampico.jpg 	25
+4620.6132 	Level injecting via pump at address 1 	25
+4622.6271 	DATA 	Keypress: 5
+4622.6275 	DATA 	Keypress: 5
+4622.6278 	DATA 	Keypress: 5
+4622.6282 	DATA 	Keypress: 5
+4626.6288 	DATA 	Keypress: 5
+4626.6317 	DATA 	Keypress: 5
+4626.6321 	DATA 	Keypress: 5
+4628.6162 	DATA 	Keypress: 5
+4628.6166 	DATA 	Keypress: 5
+4628.6273 	Level Condition: 2 	25
+4628.6307 	Level image=tampico.jpg 	25
+4630.6132 	Level injecting via pump at address 1 	25
+4632.6249 	DATA 	Keypress: 5
+4632.6253 	DATA 	Keypress: 5
+4632.6408 	DATA 	Keypress: 5
+4636.6291 	DATA 	Keypress: 5
+4636.6294 	DATA 	Keypress: 5
+4636.6297 	DATA 	Keypress: 5
+4636.6302 	DATA 	Keypress: 5
+4638.6152 	DATA 	Keypress: 5
+4724.9007 	DATA 	Keypress: 5
+4724.9496 	Level Condition: 0 	25
+4724.9567 	Level image=bottled_water.jpg 	25
+4726.9405 	Level injecting via pump at address 0 	25
+4728.9482 	DATA 	Keypress: 5
+4728.9485 	DATA 	Keypress: 5
+4728.9488 	DATA 	Keypress: 5
+4732.9530 	DATA 	Keypress: 5
+4732.9536 	DATA 	Keypress: 5
+4732.9638 	DATA 	Keypress: 5
+4734.9392 	DATA 	Keypress: 5
+4734.9395 	DATA 	Keypress: 5
+4734.9631 	Level Condition: 1 	25
+4734.9691 	Level image=bottled_water.jpg 	25
+4736.9372 	Level injecting via pump at address 1 	25
+4738.9487 	DATA 	Keypress: 5
+4738.9490 	DATA 	Keypress: 5
+4738.9493 	DATA 	Keypress: 5
+4738.9497 	DATA 	Keypress: 5
+4742.9534 	DATA 	Keypress: 5
+4742.9565 	DATA 	Keypress: 5
+4742.9568 	DATA 	Keypress: 5
+4744.9390 	DATA 	Keypress: 5
+4744.9393 	DATA 	Keypress: 5
+4744.9520 	Level Condition: 2 	25
+4744.9555 	Level image=tampico.jpg 	25
+4746.9373 	Level injecting via pump at address 1 	25
+4748.9639 	DATA 	Keypress: 5
+4748.9644 	DATA 	Keypress: 5
+4748.9647 	DATA 	Keypress: 5
+4752.9588 	DATA 	Keypress: 5
+4752.9593 	DATA 	Keypress: 5
+4752.9597 	DATA 	Keypress: 5
+4752.9602 	DATA 	Keypress: 5
+4754.9392 	DATA 	Keypress: 5
+4754.9596 	Level Condition: 2 	25
+4754.9631 	Level image=tampico.jpg 	25
+4756.9372 	Level injecting via pump at address 1 	25
+4758.9495 	DATA 	Keypress: 5
+4758.9499 	DATA 	Keypress: 5
+4758.9502 	DATA 	Keypress: 5
+4758.9507 	DATA 	Keypress: 5
+4762.9524 	DATA 	Keypress: 5
+4762.9527 	DATA 	Keypress: 5
+4762.9530 	DATA 	Keypress: 5
+4764.9394 	DATA 	Keypress: 5
+4764.9421 	DATA 	Keypress: 5
+4764.9634 	Level Condition: 0 	25
+4764.9692 	Level image=bottled_water.jpg 	25
+4766.9372 	Level injecting via pump at address 0 	25
+4768.9493 	DATA 	Keypress: 5
+4768.9498 	DATA 	Keypress: 5
+4768.9500 	DATA 	Keypress: 5
+4772.9549 	DATA 	Keypress: 5
+4772.9553 	DATA 	Keypress: 5
+4772.9556 	DATA 	Keypress: 5
+4772.9560 	DATA 	Keypress: 5
+4774.9391 	DATA 	Keypress: 5
+4774.9395 	DATA 	Keypress: 5
+4774.9512 	Level Condition: 0 	25
+4774.9562 	Level image=bottled_water.jpg 	25
+4776.9374 	Level injecting via pump at address 0 	25
+4778.9500 	DATA 	Keypress: 5
+4778.9503 	DATA 	Keypress: 5
+4778.9506 	DATA 	Keypress: 5
+4782.9552 	DATA 	Keypress: 5
+4782.9674 	DATA 	Keypress: 5
+4782.9677 	DATA 	Keypress: 5
+4782.9680 	DATA 	Keypress: 5
+4784.9394 	DATA 	Keypress: 5
+4784.9537 	Level Condition: 2 	25
+4784.9569 	Level image=tampico.jpg 	25
+4786.9372 	Level injecting via pump at address 1 	25
+4788.9501 	DATA 	Keypress: 5
+4788.9506 	DATA 	Keypress: 5
+4788.9508 	DATA 	Keypress: 5
+4788.9513 	DATA 	Keypress: 5
+4792.9592 	DATA 	Keypress: 5
+4792.9595 	DATA 	Keypress: 5
+4792.9598 	DATA 	Keypress: 5
+4794.9399 	DATA 	Keypress: 5
+4794.9402 	DATA 	Keypress: 5
+4794.9532 	Level Condition: 0 	25
+4794.9593 	Level image=bottled_water.jpg 	25
+4796.9372 	Level injecting via pump at address 0 	25
+4798.9530 	DATA 	Keypress: 5
+4798.9534 	DATA 	Keypress: 5
+4798.9683 	DATA 	Keypress: 5
+4802.9526 	DATA 	Keypress: 5
+4802.9529 	DATA 	Keypress: 5
+4802.9532 	DATA 	Keypress: 5
+4802.9534 	DATA 	Keypress: 5
+4804.9392 	DATA 	Keypress: 5
+4804.9459 	DATA 	Keypress: 5
+4804.9532 	Level Condition: 0 	25
+4804.9582 	Level image=bottled_water.jpg 	25
+4806.9374 	Level injecting via pump at address 0 	25
+4808.9493 	DATA 	Keypress: 5
+4808.9497 	DATA 	Keypress: 5
+4808.9500 	DATA 	Keypress: 5
+4812.9544 	DATA 	Keypress: 5
+4812.9548 	DATA 	Keypress: 5
+4812.9551 	DATA 	Keypress: 5
+4814.9392 	DATA 	Keypress: 5
+4814.9419 	DATA 	Keypress: 5
+4814.9591 	Level Condition: 1 	25
+4814.9645 	Level image=bottled_water.jpg 	25
+4816.9373 	Level injecting via pump at address 1 	25
+4818.9519 	DATA 	Keypress: 5
+4818.9524 	DATA 	Keypress: 5
+4818.9536 	DATA 	Keypress: 5
+4818.9541 	DATA 	Keypress: 5
+4822.9587 	DATA 	Keypress: 5
+4822.9591 	DATA 	Keypress: 5
+4822.9595 	DATA 	Keypress: 5
+4824.9399 	DATA 	Keypress: 5
+4824.9403 	DATA 	Keypress: 5
+4824.9585 	Level Condition: 3 	25
+4824.9621 	Level image=tampico.jpg 	25
+4826.9373 	Level injecting via pump at address 0 	25
+4828.9489 	DATA 	Keypress: 5
+4828.9492 	DATA 	Keypress: 5
+4828.9495 	DATA 	Keypress: 5
+4832.9523 	DATA 	Keypress: 5
+4832.9700 	DATA 	Keypress: 5
+4832.9705 	DATA 	Keypress: 5
+4832.9709 	DATA 	Keypress: 5
+4834.9391 	DATA 	Keypress: 5
+4834.9529 	Level Condition: 0 	25
+4834.9607 	Level image=bottled_water.jpg 	25
+4836.9374 	Level injecting via pump at address 0 	25
+4838.9489 	DATA 	Keypress: 5
+4838.9492 	DATA 	Keypress: 5
+4838.9495 	DATA 	Keypress: 5
+4838.9500 	DATA 	Keypress: 5
+4842.9547 	DATA 	Keypress: 5
+4842.9551 	DATA 	Keypress: 5
+4842.9554 	DATA 	Keypress: 5
+4844.9393 	DATA 	Keypress: 5
+4844.9396 	DATA 	Keypress: 5
+4844.9610 	Level Condition: 3 	25
+4844.9646 	Level image=tampico.jpg 	25
+4846.9373 	Level injecting via pump at address 0 	25
+4848.9599 	DATA 	Keypress: 5
+4848.9604 	DATA 	Keypress: 5
+4848.9606 	DATA 	Keypress: 5
+4852.9585 	DATA 	Keypress: 5
+4852.9589 	DATA 	Keypress: 5
+4852.9592 	DATA 	Keypress: 5
+4852.9595 	DATA 	Keypress: 5
+4854.9420 	DATA 	Keypress: 5
+4854.9423 	DATA 	Keypress: 5
+4854.9620 	Level Condition: 0 	25
+4854.9674 	Level image=bottled_water.jpg 	25
+4856.9373 	Level injecting via pump at address 0 	25
+4858.9487 	DATA 	Keypress: 5
+4858.9490 	DATA 	Keypress: 5
+4858.9493 	DATA 	Keypress: 5
+4862.9560 	DATA 	Keypress: 5
+4862.9564 	DATA 	Keypress: 5
+4862.9589 	DATA 	Keypress: 5
+4862.9595 	DATA 	Keypress: 5
+4864.9393 	DATA 	Keypress: 5
+4864.9508 	Level Condition: 2 	25
+4864.9541 	Level image=tampico.jpg 	25
+4866.9373 	Level injecting via pump at address 1 	25
+4868.9490 	DATA 	Keypress: 5
+4868.9493 	DATA 	Keypress: 5
+4868.9496 	DATA 	Keypress: 5
+4868.9502 	DATA 	Keypress: 5
+4872.9556 	DATA 	Keypress: 5
+4872.9560 	DATA 	Keypress: 5
+4872.9563 	DATA 	Keypress: 5
+4874.9397 	DATA 	Keypress: 5
+4874.9400 	DATA 	Keypress: 5
+4874.9507 	Level Condition: 2 	25
+4874.9540 	Level image=tampico.jpg 	25
+4876.9372 	Level injecting via pump at address 1 	25
+4878.9506 	DATA 	Keypress: 5
+4878.9510 	DATA 	Keypress: 5
+4878.9513 	DATA 	Keypress: 5
+4882.9535 	DATA 	Keypress: 5
+4882.9634 	DATA 	Keypress: 5
+4882.9638 	DATA 	Keypress: 5
+4882.9641 	DATA 	Keypress: 5
+4884.9398 	DATA 	Keypress: 5
+4884.9533 	Level Condition: 3 	25
+4884.9565 	Level image=tampico.jpg 	25
+4886.9372 	Level injecting via pump at address 0 	25
+4888.9520 	DATA 	Keypress: 5
+4888.9524 	DATA 	Keypress: 5
+4888.9528 	DATA 	Keypress: 5
+4888.9535 	DATA 	Keypress: 5
+4892.9566 	DATA 	Keypress: 5
+4892.9571 	DATA 	Keypress: 5
+4892.9573 	DATA 	Keypress: 5
+4894.9392 	DATA 	Keypress: 5
+4894.9395 	DATA 	Keypress: 5
+4894.9526 	Level Condition: 2 	25
+4894.9555 	Level image=tampico.jpg 	25
+4896.9372 	Level injecting via pump at address 1 	25
+4898.9724 	DATA 	Keypress: 5
+4898.9730 	DATA 	Keypress: 5
+4898.9734 	DATA 	Keypress: 5
+4898.9741 	DATA 	Keypress: 5
+4902.9538 	DATA 	Keypress: 5
+4902.9542 	DATA 	Keypress: 5
+4902.9545 	DATA 	Keypress: 5
+4904.9393 	DATA 	Keypress: 5
+4904.9402 	DATA 	Keypress: 5
+4904.9571 	Level Condition: 3 	25
+4904.9603 	Level image=tampico.jpg 	25
+4906.9373 	Level injecting via pump at address 0 	25
+4908.9489 	DATA 	Keypress: 5
+4908.9493 	DATA 	Keypress: 5
+4908.9495 	DATA 	Keypress: 5
+4912.9539 	DATA 	Keypress: 5
+4912.9543 	DATA 	Keypress: 5
+4912.9546 	DATA 	Keypress: 5
+4912.9550 	DATA 	Keypress: 5
+4914.9393 	DATA 	Keypress: 5
+4914.9586 	Level Condition: 1 	25
+4914.9652 	Level image=bottled_water.jpg 	25
+4916.9372 	Level injecting via pump at address 1 	25
+4918.9489 	DATA 	Keypress: 5
+4918.9492 	DATA 	Keypress: 5
+4918.9495 	DATA 	Keypress: 5
+4918.9499 	DATA 	Keypress: 5
+4922.9546 	DATA 	Keypress: 5
+4922.9549 	DATA 	Keypress: 5
+4922.9552 	DATA 	Keypress: 5
+4924.9391 	DATA 	Keypress: 5
+4924.9395 	DATA 	Keypress: 5
+4924.9529 	Level Condition: 0 	25
+4924.9578 	Level image=bottled_water.jpg 	25
+4926.9372 	Level injecting via pump at address 0 	25
+4928.9492 	DATA 	Keypress: 5
+4928.9495 	DATA 	Keypress: 5
+4928.9518 	DATA 	Keypress: 5
+4932.9532 	DATA 	Keypress: 5
+4932.9743 	DATA 	Keypress: 5
+4932.9749 	DATA 	Keypress: 5
+4932.9752 	DATA 	Keypress: 5
+4934.9390 	DATA 	Keypress: 5
+4934.9393 	DATA 	Keypress: 5
+4934.9599 	Level Condition: 1 	25
+4934.9663 	Level image=bottled_water.jpg 	25
+4936.9373 	Level injecting via pump at address 1 	25
+4938.9494 	DATA 	Keypress: 5
+4938.9498 	DATA 	Keypress: 5
+4938.9501 	DATA 	Keypress: 5
+4942.9522 	DATA 	Keypress: 5
+4942.9526 	DATA 	Keypress: 5
+4942.9529 	DATA 	Keypress: 5
+4944.9391 	DATA 	Keypress: 5
+4944.9395 	DATA 	Keypress: 5
+4944.9619 	Level Condition: 2 	25
+4944.9655 	Level image=tampico.jpg 	25
+4946.9373 	Level injecting via pump at address 1 	25
+4948.9626 	DATA 	Keypress: 5
+4948.9631 	DATA 	Keypress: 5
+4948.9635 	DATA 	Keypress: 5
+4948.9642 	DATA 	Keypress: 5
+4952.9529 	DATA 	Keypress: 5
+4952.9554 	DATA 	Keypress: 5
+4952.9557 	DATA 	Keypress: 5
+4954.9390 	DATA 	Keypress: 5
+4954.9393 	DATA 	Keypress: 5
+4954.9520 	Level Condition: 2 	25
+4954.9551 	Level image=tampico.jpg 	25
+4956.9372 	Level injecting via pump at address 1 	25
+4958.9487 	DATA 	Keypress: 5
+4958.9491 	DATA 	Keypress: 5
+4958.9493 	DATA 	Keypress: 5
+4962.9528 	DATA 	Keypress: 5
+4962.9532 	DATA 	Keypress: 5
+4962.9535 	DATA 	Keypress: 5
+4962.9538 	DATA 	Keypress: 5
+4964.9399 	DATA 	Keypress: 5
