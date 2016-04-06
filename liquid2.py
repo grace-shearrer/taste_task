@@ -217,7 +217,7 @@ for trial in range(ntrials):
 
         dev.sendCmd('%dRUN'%pump[trial])
     else:
-        print 'no pump: should be injecting via pump at address %d'%pump[trial]
+        print 'no pump: should be injecting via pump at address %d'%pump[trial]+trialdata['onset']
 
     while clock.getTime()<(trialdata['onset']+cue_time+delivery_time):#wait until liquid is delivered
         pass
@@ -235,7 +235,7 @@ for trial in range(ntrials):
         print 'injecting rinse via pump at address %d'%0
         dev.sendCmd('%dRUN'%0)
     else:
-        print 'no pump: should be injecting rinse via pump at address %d'%pump[trial]
+        print 'no pump: should be injecting rinse via pump at address %d'%pump[trial]+(trialdata['onset']+cue_time+delivery_time+wait_time)
 
     while clock.getTime()<(trialdata['onset']+cue_time+delivery_time+wait_time+rinse_time):
         pass
